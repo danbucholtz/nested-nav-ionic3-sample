@@ -31,7 +31,7 @@ export class PageTwoSectionOne {
 
   }
 
-  goToPageTwo() {
+  next() {
     this.navCtrl.push(PageTwoSectionOne);
   }
 
